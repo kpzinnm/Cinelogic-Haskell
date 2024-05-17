@@ -1,7 +1,7 @@
 # ProjetoPLPHaskell
 
  CineLogic
- Sistema de automação de vendas para cinemas
+ Sistema de automação de vendas para cinemas, desenvolvido com o paradigma funcional na linguagem de programação Haskell. Este projeto foi criado como parte da disciplina de Paradigmas de Linguagens de Programação na Universidade Federal de Campina Grande(UFCG).
 
 ### Componentes:
 - pedro.braz@ccc.ufcg.edu.br
